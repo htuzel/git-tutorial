@@ -1,5 +1,0 @@
-<?php
-
-dsadsadsa
-
-dsadsadsadas
